@@ -1,1 +1,3 @@
 benim ilk çalışmam
+
+localdeki çalışmam
